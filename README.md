@@ -1,3 +1,24 @@
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+  <img src="./assets/banner-dark.svg" alt="project banner" width="100%">
+</picture>
+
+<br>
+
+<img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&labelColor=0D1117&logo=fastapi&logoColor=8B5CF6" alt="FastAPI">
+<img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&labelColor=0D1117&logo=nextdotjs&logoColor=8B5CF6" alt="Next.js">
+<img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&labelColor=0D1117&logo=postgresql&logoColor=8B5CF6" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/JWT-161B22?style=flat-square&labelColor=0D1117&logo=jsonwebtokens&logoColor=8B5CF6" alt="JWT">
+
+<br><br>
+
+<a href="#quick-start">Quick Start</a> · <a href="#architecture">Architecture</a>
+
+</div>
+
 # 🎙️ VoiceCore - Enterprise AI Voice Platform
 
 <div align="center">
