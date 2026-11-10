@@ -15,7 +15,7 @@
 
 <br><br>
 
-<a href="#quick-start">Quick Start</a> · <a href="#architecture">Architecture</a>
+<a href="#quick-start-guide-windows">Quick Start</a> · <a href="#technology-stack">Stack</a>
 
 </div>
 
